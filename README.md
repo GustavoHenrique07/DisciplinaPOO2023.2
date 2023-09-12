@@ -14,12 +14,12 @@
    • Cap. 07 (Matriz) <br>
    • Cap. 08 (Sub-rotina)<br>
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Equipe:
 - Gustavo Henrique Chaves de Carvalho.
 - Maria Eduarda de Queiroz Lima
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Professor:
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Professor:
 - Roger Moura Sarmento.
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Linguagem utilizada:
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Linguagem utilizada:
 - Java.
