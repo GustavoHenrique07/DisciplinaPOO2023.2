@@ -49,7 +49,7 @@ public class Principal {
 				}
 			
 			}
-		else {
+		else if(refrig.equals("S")) {
 			if(tipo.equals("A")) {
 				valor_adic = 8;
 			}
@@ -59,6 +59,9 @@ public class Principal {
 			else if(tipo.equals("V")) {
 				valor_adic = 0;
 			}
+		}
+		else {
+			System.out.println("Opção Inválida!");
 		}
 		
 		System.out.println("O valor adicional foi: " + valor_adic);
@@ -76,13 +79,15 @@ public class Principal {
 		
 		System.out.println("O valor do custo com imposto foi: " + pre_custo);
 		
-		if((!tipo.equals("A")) && (!refrig.equals("S"))){
-			desconto = pre_custo * (3 / 100)  ;
-		}
-		else {
+		if(tipo.equals("A") && refrig.equals("S")){
 			desconto = 0;
 		}
-		
+		else if(tipo.equals("A") || refrig.equals("S")) {
+			desconto = 0;
+		}
+		else {
+			desconto = pre_custo * (3 / 100);
+		}
 		System.out.println("O valor do desconto foi: " + desconto);
 		
 		novo_pre = pre_custo + valor_adic - desconto;
