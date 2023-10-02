@@ -16,7 +16,7 @@
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Equipe:
 - Gustavo Henrique Chaves de Carvalho.
-- [Maria Eduarda de Queiroz Lima.](https://github.com/MEduardaQueiroz/MEduardaQueiroz)
+- [Maria Eduarda de Queiroz Lima](https://github.com/MEduardaQueiroz/MEduardaQueiroz).
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Professor:
 - Roger Moura Sarmento.
