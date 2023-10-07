@@ -2,7 +2,7 @@
 
 Questão | Enunciado
 :--------: | :-----------:
-[**01**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/tree/main/Lista01/Resolvidas/Q01R) | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+[**01**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/tree/main/Lista01/Resolvidas/Q01R/src/br/edu/principal/principal.java) | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 [**02**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/tree/main/Lista01/Resolvidas/Q02R) | Faça um programa que receba três notas, calcule e mostre a média aritmética.
 [**03**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/tree/main/Lista01/Resolvidas/Q03R) | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 [**04**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/tree/main/Lista01/Resolvidas/Q04R) | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
