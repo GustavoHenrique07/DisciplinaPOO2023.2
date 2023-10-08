@@ -2,7 +2,7 @@
 
 Questão | Enunciado
 :--------: | :-----------:
-[**01**]() | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadasobedece aos pesos a seguir:
+[**01**]() | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:
 [**02**]() | Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagemconstante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverãotirar para serem aprovados, considerando que a média exigida é 6,0.
 [**03**]() | Faça um programa que receba dois números e mostre o maior.
 [**04**]() | Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuáriodigitará três números diferentes.
