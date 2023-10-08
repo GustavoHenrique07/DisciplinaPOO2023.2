@@ -295,9 +295,7 @@ Questão | Enunciado
 Questão | Enunciado
 :-----: | :-------:
 [**03**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q03P/src/br/edu/principal/Principal.java) |Faça um programa que receba dois números e mostre o menor.
-[**07**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q07P/src/br/edu/principal/Principal.java) |Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um
-programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso
-ele não tenha direito ao aumento.
+[**07**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q07P/src/br/edu/principal/Principal.java) |Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
 [**12**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q12P/src/br/edu/principal/Principal.java) | Faça um programa que receba o salário bruto de um funcionário e, usando a tabela a seguir, calcule e mostre o valor a receber. Sabe-se que este é composto pelo salário bruto acrescido de gratificação e descontado o imposto de 7% sobre o salário.
 
 SALÁRIO | GRATIFICAÇÃO
@@ -312,3 +310,5 @@ programa deve mostrar uma mensagem de permissão de acesso ou não.
 
 [**24**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q24P/src/br/edu/principal/Principal.java) | Faça um programa que receba o preço, a categoria (1 — limpeza; 2 — alimentação; ou 3 — vestuário) e a situação (R — produtos que necessitam de refrigeração; e N — produtos que não necessitam de refrigeração). Calcule e mostre:
 - O valor do aumento, usando as regras que se seguem.
+
+
