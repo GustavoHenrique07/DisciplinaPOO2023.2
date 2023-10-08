@@ -50,3 +50,7 @@ JANELA | CORREDOR
 3- Livre | 3- Livre
 4- Livre | 4- Ocupada
 5- Ocupada | 5- Livre
+
+Questão | Enunciado
+:------:| :----------:
+[**25**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista03/Cap06/Q25R/src/br/edu/principal/Principal.java) | Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em um vetor. Escreva no final o vetor resultante.
