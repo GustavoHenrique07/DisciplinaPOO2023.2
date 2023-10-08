@@ -1,7 +1,7 @@
 #   Lista de Questões Realizadas
 Questão | Enunciado
 :------:| :----------:
-[**7**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q07R/src/br/edu/principal/Principal.java) |Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
+[**07**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q07R/src/br/edu/principal/Principal.java) |Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
 [**11**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q11R/src/br/edu/principal/Principal.java) |Foi realizada uma pesquisa sobre algumas características físicas de cinco habitantes de uma região. Foram coletados os seguintes dados de cada habitante: sexo, cor dos olhos (A — azuis; ou C — castanhos), cor dos cabelos (L — louros; P — pretos; ou C — castanhos) e idade. Faça um programa que apresente as sub-rotinas a seguir:
 
 - Que leia esses dados, armazenando-os em vetores.
