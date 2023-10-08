@@ -13,8 +13,7 @@ Questão | Enunciado
 [**09**]() | Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA –mês por extenso e hora:minuto.
 [**10**]() | Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelousuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, osegundo, o mês e o terceiro, o ano.
 [**11**]() | Faça um programa que receba a hora do início de um jogo e a hora do término (cada hora é compostapor duas variáveis inteiras: hora e minuto). Calcule e mostre a duração do jogo (horas e minutos),sabendo que o tempo máximo de duração do jogo é de 24 horas e que ele pode começar em um dia eterminar no dia seguinte.
-[**12**]() | Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual
-e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.
+[**12**]() | Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.
 [**13**]() |Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, re-ceba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade deopção inválida e não se preocupe com restrições, como salário negativo.
 [**14**]() | Faça um programa que receba o salário inicial de um funcionário, calcule e mostre o novo salário,acrescido de bonificação e de auxílio escola.
 [**15**]() |Faça um programa que receba o valor do salário mínimo, o número de horas trabalhadas, o númerode dependentes do funcionário e a quantidade de horas extras trabalhadas. Calcule e mostre o salárioa receber do funcionário de acordo com as regras a seguir:
