@@ -1,4 +1,4 @@
-#    -Capítulo 04-
+#    Capítulo 04
 
 
 #    Lista de Questões Resolvidas 
