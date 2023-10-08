@@ -275,7 +275,7 @@ Preço | Percentual sobre o Preço
 => R$ 25,00 | 8%
 
 - O preço de custo, ou seja, preço mais imposto.
-- O desconto, de acordo com a regra a seguir.O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário,0 (zero).Os requisitos são:Tipo: A,Refrigeração: S
+- O desconto, de acordo com a regra a seguir.O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário,0 (zero).Os requisitos são: Tipo: A,Refrigeração: S
 - O novo preço, ou seja, preço de custo mais adicional menos desconto.
 - A classificação, de acordo com a regra a seguir.
 
@@ -290,12 +290,25 @@ Questão | Enunciado
 :------:| :----------:
 [**25**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Resolvidas/Q25R/src/br/edu/principal/Principal.java) | Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360o ou menores que −360o, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
 
-#  Lista de Questões Propostas
+#   Lista de Questões Propostas
 
 Questão | Enunciado
 :-----: | :-------:
-[**03**]() |Faça um programa para controlar o estoque de mercadorias de uma empresa. Inicialmente, o programa de-verá preencher dois vetores com dez posições cada, onde o primeiro corresponde ao código do produto e osegundo, ao total desse produto em estoque. Logo após, o programa deverá ler um conjunto indeterminadode dados contendo o código de um cliente e o código do produto que ele deseja comprar, juntamente com aquantidade. Código do cliente igual a zero indica fim do programa.
-[**07**]() |Faça um programa que preencha um vetor com dez números reais, calcule e mostre a quantidade de númerosnegativos e a soma dos números positivos desse vetor.
-[**12**]() | Faça um programa que receba cinco números e mostre a saída a seguir:
-[**17**]() | Faça um programa que preencha dois vetores de dez posições cada, determine e mostre um terceiro con-tendo os elementos dos dois vetores anteriores ordenados de maneira decrescente.
-[**24**]() | Faça um programa que leia um vetor com quinze posições para números inteiros. Crie, a seguir, um vetorresultante que contenha todos os números primos do vetor digitado. Escreva o vetor resultante.
+[**03**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q03P/src/br/edu/principal/Principal.java) |Faça um programa que receba dois números e mostre o menor.
+[**07**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q07P/src/br/edu/principal/Principal.java) |Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um
+programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso
+ele não tenha direito ao aumento.
+[**12**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q12P/src/br/edu/principal/Principal.java) | Faça um programa que receba o salário bruto de um funcionário e, usando a tabela a seguir, calcule e mostre o valor a receber. Sabe-se que este é composto pelo salário bruto acrescido de gratificação e descontado o imposto de 7% sobre o salário.
+
+SALÁRIO | GRATIFICAÇÃO
+:------:| :----------:
+Até R$ 350,00 | R$ 100,00
+R$ 350,00 - R$ 600,00 | R$ 75,00
+R$ 600,00 - R$ 900,00 | R$ 50,00
+Acima de R$ 900,00 | R$ 35,00
+
+[**17**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q17P/src/br/edu/principal/Principal.java) | Faça um programa que verifique a validade de uma senha fornecida pelo usuário. A senha é 4531. O
+programa deve mostrar uma mensagem de permissão de acesso ou não.
+
+[**24**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q24P/src/br/edu/principal/Principal.java) | Faça um programa que receba o preço, a categoria (1 — limpeza; 2 — alimentação; ou 3 — vestuário) e a situação (R — produtos que necessitam de refrigeração; e N — produtos que não necessitam de refrigeração). Calcule e mostre:
+- O valor do aumento, usando as regras que se seguem.
