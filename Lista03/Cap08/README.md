@@ -9,6 +9,7 @@ Questão | Enunciado
 - Que determine e devolva ao programa principal a maior idade entre os habitantes.
 - Que determine e devolva ao programa principal a quantidade de indivíduos do sexo feminino com
 idade entre 18 e 35 anos (inclusive) e que tenham olhos azuis e cabelos louros.
+
 Questão | Enunciado
 :------:| :----------:
 [**14**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap08/Q14R/src/br/edu/principal/Principal.java) |Crie uma sub-rotina que receba como parâmetro dois vetores de dez elementos inteiros positivos e mostre o vetor união dos dois primeiros.
