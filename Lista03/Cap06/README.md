@@ -20,3 +20,28 @@ soa deseja viajar. O programa deverá dar as seguintes respostas:
 
 A opção Sair é a única que permite encerrar a execução do programa. Sendo assim, após cada operação
 de consulta ou reserva, o programa volta ao menu principal.
+
+Questão | Enunciado
+:------:| :----------:
+[**20**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista03/Cap06/Q20R/src/br/edu/principal/Principal.java) | Faça um programa que leia um vetor com cinco posições para números reais e, depois, um código inteiro. Se o código for zero, finalize o programa; se for 1, mostre o vetor na ordem direta; se for 2, mostre o vetor na ordem inversa.
+[**23**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista03/Cap06/Q23R/src/br/edu/principal/Principal.java) | Uma empresa possui ônibus com 48 lugares (24 nas janelas e 24 no corredor). Faça um programa que utilize dois vetores para controlar as poltronas ocupadas no corredor e na janela. Considere que 0 representa poltrona desocupada e 1, poltrona ocupada.Inicialmente, todas as poltronas estarão livres. Depois disso, o programa deverá apresentar as seguintes
+opções:
+- vender passagem;
+- mostrar mapa de ocupação do ônibus;
+- encerrar.
+Quando a opção escolhida for Vender Passagem, deverá ser perguntado se o usuário deseja janela ou
+corredor e o número da poltrona. O programa deverá, então, dar uma das seguintes mensagens:
+- Venda efetivada — se a poltrona solicitada estiver livre, marcando-a como ocupada.
+- Poltrona ocupada — se a poltrona solicitada não estiver disponível para venda.
+- Ônibus lotado — quando todas as poltronas já estiverem ocupadas.
+
+Quando a opção escolhida for Mostrar Mapa de Ocupação do Ônibus, deverá ser mostrada uma lis-
+tagem conforme a seguir:
+
+JANELA | CORREDOR
+:------:| :----------:
+1- Ocupada | 1- Ocupada
+2- Ocupada | 2- Livre
+3- Livre | 3- Livre
+4- Livre | 4- Ocupada
+5- Ocupada | 5- Livre
