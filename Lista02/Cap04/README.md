@@ -305,6 +305,9 @@ R$ 350,00 - R$ 600,00 | R$ 75,00
 R$ 600,00 - R$ 900,00 | R$ 50,00
 Acima de R$ 900,00 | R$ 35,00
 
+Questão | Enunciado
+:------:| :----------:
+
 [**17**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap04/Propostas/Q17P/src/br/edu/principal/Principal.java) | Faça um programa que verifique a validade de uma senha fornecida pelo usuário. A senha é 4531. O
 programa deve mostrar uma mensagem de permissão de acesso ou não.
 
