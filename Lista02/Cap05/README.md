@@ -158,3 +158,27 @@ Maior que R$ 100,00 | 10%
 -Os produtos que vêm do México e os produtos que utilizam transporte aéreo pagam metade do valor do seu preço unitário como seguro.
 - O preço final, ou seja, preço unitário mais imposto mais valor do transporte mais valor do seguro.
 -  O total dos impostos.
+
+#   Lista de Questões Propostas
+[**3**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap05/Propostas/Q03P/src/br/edu/principal/Principal.java) | Faça um programa que receba a idade de oito pessoas, calcule e mostre:
+a) a quantidade de pessoas em cada faixa etária;
+b) a porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas.
+c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas
+
+Faixa Etária | idade
+:------:| :----------:
+1ª | Até 15 anos
+2ª | De 16 a 30 anos
+3ª | De 31 a 45 anos
+4ª | De 46 a 60 anos
+5ª | Acima de 60 anos
+
+Questão | Enunciado
+:------:| :----------:
+[**7**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap05/Propostas/Q07P/src/br/edu/principal/Principal.java) | Faça um programa que receba a idade, a altura e o peso de cinco pessoas, calcule e mostre:a quantidade de pessoas com idade superior a 50 anos;a média das alturas das pessoas com idade entre 10 e 20 anos;a porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analisadas.
+[**13**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap05/Propostas/Q13P/src/br/edu/principal/Principal.java) | Faça um programa que receba a idade e o peso de quinze pessoas, e que calcule e mostre as médias dos pesos das pessoas da mesma faixa etária. As faixas etárias são: de 1 a 10 anos, de 11 a 20 anos, de 21 a 30 anos e de 31 anos para cima.
+[**22**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap05/Propostas/Q22P/src/br/edu/principal/Principal.java) | Faça um programa que receba a idade e a altura de várias pessoas, calcule e mostre a média das alturas daquelas com mais de 50 anos. Para encerrar a entrada de dados, digite idade menor ou igual a zero.
+[**24**](https://github.com/GustavoHenrique07/DisciplinaPOO2023.2/blob/main/Lista02/Cap05/Propostas/Q24P/src/br/edu/principal/Principal.java) | Faça um programa que receba um conjunto de valores inteiros e positivos, calcule e mostre o maior e o menor valor do conjunto. Considere que:
+- para encerrar a entrada de dados, deve ser digitado o valor zero;
+- para valores negativos, deve ser enviada uma mensagem;
+- os valores negativos ou iguais a zero não entrarão nos cálculos.
